@@ -1,9 +1,3 @@
 ### IntelliJ IDEA ###
-Calculator/out/
 .idea/
-
-/temp
-logs/*
-!logs/important.log
-*.log
-*.tmp
+out/
