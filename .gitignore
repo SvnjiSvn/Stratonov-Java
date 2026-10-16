@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+
+/temp
+logs/*
+!logs/important.log
+*.log
+*.tmp
